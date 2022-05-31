@@ -1,4 +1,4 @@
 ###################
-Absensi Karyawan QR Codes
+PRESENSI PEGAWAI
 ###################
-Absensi Karyawan QR Code dibuat dengan Framework 
+
